@@ -1,0 +1,15 @@
+commit->save
+
+git addd user login->staging area 
+
+commands
+	git status
+	git commit
+
+node.js
+	business logic
+	config files
+	pswrd
+	
+master
+user  
